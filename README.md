@@ -4,7 +4,7 @@
 This project focuses on classifying multi-digit handwritten images adjusted from the MNIST dataset. Two approaches are examined: Simple Neural Networks vs CNN Encoder-Decoder Models. The goal is to solve a computer's difficulty processing and focusing on the meaningful parts of these images to correctly identify sequences of varying length.
 
 ### Motivation
-In lab 3, I built a neural network for digit classification using the MNIST dataset. However, the MNIST dataset only contains single-digit . This project idea came to me through a problem we were facing at work. As part of the neuropsychological exam that participants complete, they perform a "math fluency" task, where they are given a page of math problems to solve. To faciliate the scoring process, we wanted to automate the scoring of this task by recognizing each number written by the participant and comparing it to the key of pre-defined answers. The challenge arrises when figuring out if a response is a one-digit response or two-digit response. 
+In lab 3, I built a neural network for digit classification using the MNIST dataset. However, the MNIST dataset only contains single-digits. This project idea came to me through a problem we were facing at work. As part of the neuropsychological exam that participants complete, they perform a "math fluency" task, where they are given a page of math problems to solve. To faciliate the scoring process, we wanted to automate the scoring of this task by recognizing each number written by the participant and comparing it to the key of pre-defined answers. The challenge arrises when figuring out if a response is a one-digit response or two-digit response. 
 
 ## Relevence to the coursework
 For this porfolio piece, I'm going to touch on the class topics:
