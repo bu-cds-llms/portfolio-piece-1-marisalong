@@ -1,7 +1,5 @@
 # MNIST Dataset Adaptation: Multi-digit Classifacation Using Simple Neural Networks vs CNN Encoder-Decoder Models
 
-## Table of Contents
-
 ## Overview
 This project focuses on classifying multi-digit handwritten images adjusted from the MNIST dataset. Two approaches are examined: Simple Neural Networks vs CNN Encoder-Decoder Models. The goal is to solve a computer's difficulty processing and focusing on the meaningful parts of these images to correctly identify sequences of varying length.
 
