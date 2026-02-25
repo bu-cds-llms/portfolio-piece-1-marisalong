@@ -8,6 +8,7 @@ In lab 3, I built a neural network for digit classification using the MNIST data
 
 ## Relevence to the coursework
 For this porfolio piece, I'm going to touch on the class topics:
+
     - Tokenization
     - Neural Network
     - Attention
